@@ -14,5 +14,9 @@ return {
 	{ import = "astrocommunity.editing-support.vim-visual-multi" },
 	{ import = "astrocommunity.motion.nvim-surround" },
 	{ import = "astrocommunity.editing-support.chatgpt-nvim" },
+	-- { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
+	{ import = "astrocommunity.recipes.heirline-nvchad-statusline" },
+	{ import = "astrocommunity.pack.php" },
+
 	-- import/override with your plugins folder
 }
