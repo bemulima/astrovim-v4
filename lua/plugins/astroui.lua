@@ -16,6 +16,8 @@ return {
     highlights = {
       init = { -- this table overrides highlights in all themes
         -- Normal = { bg = "#000000" },
+        AvanteConflictIncoming = { bg = "#FF0000" }, -- Красный фон
+        AvanteConflictCurrent = { bg = "#00FF00" },  -- Зеленый фон
       },
       astrodark = { -- a table of overrides/changes when applying the astrotheme theme
         -- Normal = { bg = "#000000" },
